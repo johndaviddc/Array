@@ -2,7 +2,7 @@
 This is a C program that prompts the user to enter the size of an array, creates an array of the given size, initializes the first element to 1, and then fills the rest of the array with elements that are twice the previous element. Finally, it prints the array elements one by one.
 
 # How to Run the Code
-To run the code, you need to have the CS50 library installed on your system. If you don't have it installed, you can follow the installation instructions provided on the CS50 library GitHub page.
+To run the code, you need to have the CS50 library installed on your system. If you don't have it installed, you can follow the installation instructions provided on the [CS50 library GitHub page](https://github.com/cs50/libcs50).
 
 Once you have installed the CS50 library, you can compile the code using the following command:
 <details>

@@ -5,10 +5,24 @@ This is a C program that prompts the user to enter the size of an array, creates
 To run the code, you need to have the CS50 library installed on your system. If you don't have it installed, you can follow the installation instructions provided on the CS50 library GitHub page.
 
 Once you have installed the CS50 library, you can compile the code using the following command:
+<details>
+<summary>Copy Code</summary>
+
+```sh
 gcc -o program program.c -lcs50
+<copy-button>
+</details>
+```
 
 After compiling the code, you can run the program using the following command:
+<details>
+<summary>Copy Code</summary>
+
+```sh
 ./program
+<copy-button>
+</details>
+```
 
 When you run the program, it will prompt you to enter the size of the array. After entering the size, it will create the array, fill it with elements that are twice the previous element, and then print the elements one by one.
 
